@@ -1,4 +1,4 @@
-package HackerEarth;
+package HackerEarth.BubbleSort;
 
 import java.util.Scanner;
 
